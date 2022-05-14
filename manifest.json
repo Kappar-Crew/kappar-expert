@@ -11,8 +11,8 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "KAPPAR Pack EXPERT (dev)",
-  "version": ".003",
-  "author": "SexyPepsiLOL, Purplik, superhealing",
+  "version": ".004",
+  "author": "",
   "files": [
     {
       "projectID": 225635,
@@ -212,6 +212,11 @@
     {
       "projectID": 242638,
       "fileID": 2746892,
+      "required": true
+    },
+    {
+      "projectID": 247111,
+      "fileID": 2887479,
       "required": true
     },
     {
@@ -507,6 +512,11 @@
     {
       "projectID": 388172,
       "fileID": 3785777,
+      "required": true
+    },
+    {
+      "projectID": 245211,
+      "fileID": 2667280,
       "required": true
     },
     {
